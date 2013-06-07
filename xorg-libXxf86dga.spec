@@ -1,11 +1,11 @@
 Summary:	Xxf86dga library
 Name:		xorg-libXxf86dga
-Version:	1.1.3
-Release:	3
+Version:	1.1.4
+Release:	1
 License:	MIT
 Group:		X11/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/lib/libXxf86dga-%{version}.tar.bz2
-# Source0-md5:	b7f38465c46e7145782d37dbb9da8c09
+# Source0-md5:	d7dd9b9df336b7dd4028b6b56542ff2c
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
